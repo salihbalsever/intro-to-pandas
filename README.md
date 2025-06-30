@@ -42,6 +42,10 @@ intro-to-pandas/
 ├── 04_reading_files.ipynb
 ├── 05_reading_json.ipynb
 ├── 06_analyzing_dataframes.ipynb
+├── 07_cleaning_data.ipynb
+├── 08_cleaning_wrong_format.ipynb
+├── 09_removing_duplicates.ipynb
+
 
 
 
