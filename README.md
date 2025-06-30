@@ -30,7 +30,6 @@ It provides two key data structures:
 - 11 - Applying Functions & Mapping  
 - 12 - Time Series  
 - 13 - Exporting Data  
-- 14 - Real-World Mini Project (optional)
 
 > 📌 All topics are organized as Jupyter Notebooks and named in numeric order for easy navigation.
 
@@ -45,6 +44,14 @@ intro-to-pandas/
 ├── 07_cleaning_data.ipynb
 ├── 08_cleaning_wrong_format.ipynb
 ├── 09_removing_duplicates.ipynb
+├── 10_data_correlations.ipynb
+├── 11_grouping_aggregation.ipynb
+├── 12_sorting_ranking.ipynb
+├── 13_plotting.ipynb
+├── 14_applying_functions.ipynb
+├── 15_time_series.ipynb
+├── 16_exporting_data.ipynb        # (opsiyonel)
+└── README.md
 
 
 
