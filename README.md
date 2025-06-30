@@ -37,6 +37,13 @@ It provides two key data structures:
 ---
 intro-to-pandas/
 ├── 01_pandas_introduction.ipynb
+├── 02_series_basics.ipynb
+├── 03_dataframe_basics.ipynb
+├── 04_reading_files.ipynb
+├── 05_reading_json.ipynb
+├── 06_analyzing_dataframes.ipynb
+
+
 
 ## 🚀 Getting Started
 Make sure you have Python and Pandas installed:
